@@ -1,0 +1,12 @@
+# Developed on Python 3.9
+pandas
+numpy
+matplotlib
+scipy
+statsmodels
+scikit-learn
+requests
+rasterio
+rasterstats
+shapely
+jupyterlab

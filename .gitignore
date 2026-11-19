@@ -1,0 +1,25 @@
+# Python / Jupyter
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.venv/
+venv/
+.env
+
+# Generated outputs
+results/
+
+# Raw SNODAS downloads / intermediates (only the extracted CSVs are kept)
+*.tar
+*.dat
+*.dat.gz
+*.hdr
+*.tif
+*.tiff
+
+# OS / editor
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
